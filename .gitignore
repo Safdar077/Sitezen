@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Videos or large files
+public/*.mp4
+
+# Environment files
+.env
