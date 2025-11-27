@@ -1,0 +1,868 @@
+[00:00:02.600] Server  LOG     
+[00:00:02.601] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:02.602] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:02.603] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:02.604] Server  LOG     
+[00:00:02.605] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:02.606] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:02.606] Server  LOG     
+[00:00:03.196] Server  LOG      ✓ Ready in 2.1s
+[00:00:16.280] Server  LOG      ○ Compiling / ...
+[00:00:21.398] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:21.930] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:21.930] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:21.930] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764249979888}
+[00:00:35.556] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764249993616}
+[00:00:45.172] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250003227}
+[00:00:52.506] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:52.772] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:52.772] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/projects","route":"/projects"}
+[00:00:52.772] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250010834}
+[00:00:58.761] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250016825}
+[00:08:04.324] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250442261}
+[00:08:44.735] Server  LOG      ✓ Compiled in 189ms
+[00:09:38.616] Server  LOG      ✓ Compiled in 86ms
+[00:10:54.297] Server  LOG      ✓ Compiled in 99ms
+[00:11:00.472] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:00.795] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:11:00.795] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/projects","route":"/projects"}
+[00:11:00.795] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250618864}
+[00:11:15.165] Server  LOG      ✓ Compiled in 87ms
+[00:11:16.384] Server  LOG      ✓ Compiled in 240ms
+[00:11:19.460] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:19.939] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:11:19.939] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/projects","route":"/projects"}
+[00:11:19.939] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250638006}
+[00:11:33.265] Server  LOG      ✓ Compiled in 147ms
+[00:11:36.952] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:37.229] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:11:37.229] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/projects","route":"/projects"}
+[00:11:37.229] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250655298}
+[00:11:42.814] Server  LOG      ✓ Compiled in 78ms
+[00:11:52.766] Server  LOG      ✓ Compiled in 93ms
+[00:11:56.034] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:56.316] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:11:56.316] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/projects","route":"/projects"}
+[00:11:56.316] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250674383}
+[00:12:26.745] Server  LOG      ✓ Compiled in 99ms
+[00:13:00.978] Server  LOG      ✓ Compiled in 80ms
+[00:14:44.802] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250842834}
+[00:16:10.392] Server  LOG      ✓ Compiled in 195ms
+[00:16:14.771] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:15.201] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:16:15.201] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:16:15.201] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250933263}
+[00:16:22.162] Server  LOG      ✓ Compiled in 265ms
+[00:16:22.754] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:47:1
+Parsing ecmascript source code failed
+  45 |     </motion.footer>
+  46 |   )
+> 47 | }
+     | ^
+  48 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:16:35.749] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:47:1
+Parsing ecmascript source code failed
+  45 |     </motion.footer>
+  46 |   )
+> 47 | }
+     | ^
+  48 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:16:58.397] Server  LOG      ✓ Compiled in 88ms
+[00:17:05.209] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:05.433] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:17:05.433] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:17:05.433] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764250983497}
+[00:17:11.586] Server  LOG      ✓ Compiled in 127ms
+[00:17:20.895] Server  LOG      ✓ Compiled in 63ms
+[00:17:24.325] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:24.619] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:17:24.619] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:17:24.619] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764251002683}
+[00:17:31.560] Server  LOG      ✓ Compiled in 69ms
+[00:17:41.018] Server  LOG      ✓ Compiled in 269ms
+[00:17:54.499] Server  LOG      ✓ Compiled in 107ms
+[00:18:01.818] Server  LOG      ✓ Compiled in 206ms
+[00:18:05.554] Server  LOG      ✓ Compiled in 125ms
+[00:18:13.876] Server  LOG      ✓ Compiled in 72ms
+[00:18:21.508] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:21.769] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:18:21.769] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:18:21.769] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764251059826}
+[00:18:35.390] Server  LOG      ✓ Compiled in 61ms
+[00:18:39.407] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:39.669] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:18:39.669] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:18:39.669] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764251077735}
+[00:18:42.593] Server  LOG      ✓ Compiled in 87ms
+[00:18:50.212] Server  LOG      ✓ Compiled in 240ms
+[00:18:53.647] Server  LOG      ✓ Compiled in 58ms
+[00:18:57.039] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:57.387] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:18:57.387] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:18:57.387] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764251095450}
+[00:19:02.947] Server  LOG      ✓ Compiled in 96ms
+[00:19:08.071] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:08.311] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:19:08.311] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:19:08.311] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764251106376}
+[00:19:33.749] Server  LOG      ✓ Compiled in 69ms
+[00:19:38.028] Server  LOG      ✓ Compiled in 165ms
+[00:19:48.348] Server  LOG      ✓ Compiled in 52ms
+[00:19:54.315] Server  LOG      ✓ Compiled in 69ms
+[00:19:57.824] Server  LOG      ✓ Compiled in 77ms
+[00:20:07.856] Server  LOG      ✓ Compiled in 96ms
+[00:21:24.071] Server  LOG      ✓ Compiled in 60ms
+[00:23:45.457] Server  LOG      ✓ Compiled in 63ms
+[00:23:45.752] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. smartphone
+[00:24:41.019] Server  LOG      ✓ Compiled in 173ms
+[00:24:41.748] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:28
+Parsing ecmascript source code failed
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone } from lucide-react;
+    |                            ^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+Unexpected token `lucide`. Expected a string literal
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:25:08.751] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:28
+Parsing ecmascript source code failed
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone } from lucide-react;
+    |                            ^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+Unexpected token `lucide`. Expected a string literal
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:25:25.469] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:26.413] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:26.650] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:25:26.650] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:25:26.650] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764251484706}
+[00:25:39.980] Server  LOG      ✓ Compiled in 66ms
+[00:25:46.100] Server  LOG      ✓ Compiled in 69ms
+[00:26:08.836] Server  LOG      ✓ Compiled in 190ms
+[00:26:22.078] Server  LOG      ✓ Compiled in 92ms
+[00:27:05.702] Server  LOG      ✓ Compiled in 116ms
+[00:27:46.303] Server  LOG      ✓ Compiled in 79ms
+[00:28:09.468] Server  LOG      ✓ Compiled in 129ms
+[00:28:31.138] Server  LOG      ✓ Compiled in 57ms
+[00:28:34.815] Server  LOG      ✓ Compiled in 72ms
+[00:28:42.719] Server  LOG      ✓ Compiled in 58ms
+[00:29:02.677] Server  LOG      ✓ Compiled in 113ms
+[00:29:07.042] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:07.854] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:29:07.854] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:29:07.854] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764251705442}
+[00:29:12.628] Server  LOG      ✓ Compiled in 89ms
+[00:29:26.643] Server  LOG      ✓ Compiled in 69ms
+[00:29:48.087] Server  LOG      ✓ Compiled in 59ms
+[00:30:01.753] Server  LOG      ✓ Compiled in 81ms
+[00:30:07.848] Server  LOG      ✓ Compiled in 133ms
+[00:30:14.152] Server  LOG      ✓ Compiled in 58ms
+[00:30:29.911] Server  LOG      ✓ Compiled in 117ms
+[00:30:56.437] Server  LOG      ✓ Compiled in 74ms
+[00:31:23.646] Server  LOG      ✓ Compiled in 134ms
+[00:31:38.961] Server  LOG      ✓ Compiled in 64ms
+[00:31:52.539] Server  LOG      ✓ Compiled in 56ms
+[00:31:57.977] Server  LOG      ✓ Compiled in 71ms
+[00:32:10.008] Server  LOG      ✓ Compiled in 111ms
+[00:35:55.714] Server  LOG      ✓ Compiled in 84ms
+[00:36:28.433] Server  LOG      ✓ Compiled in 65ms
+[00:36:28.746] Browser ERROR   uncaughtError: ReferenceError: Email is not defined
+[00:36:50.080] Server  ERROR    ⨯ ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+
+
+
+./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+
+
+[00:36:50.234] Server  LOG      ✓ Compiled in 12.6s
+[00:36:50.337] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:50.337] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:51.551] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:51.551] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:51.737] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:51.737] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.022] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.022] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.455] Browser ERROR   uncaughtError: Error: ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+
+
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.750] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-client] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:36:53.751] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:5:1
+Export Email doesn't exist in target module
+  3 | import { motion } from "framer-motion"
+  4 | import Link from "next/link"
+> 5 | import { Smartphone, Email } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Footer() {
+  8 |   return (
+
+The export Email was not found in module [project]/OneDrive/Desktop/portfolio/Sitezen/node_modules/lucide-react/dist/esm/lucide-react.js [app-ssr] (ecmascript).
+Did you mean to import Mail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:37:10.092] Server  LOG      ✓ Compiled in 461ms
+[00:37:11.056] Server  ERROR   C:\Users\sk800\OneDrive\Desktop\portfolio\Sitezen\.next\dev\server\chunks\ssr\[root-of-the-server]__220cbad6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:37:11.068] Server  ERROR    ⨯ ReferenceError: Email is not defined
+[00:37:12.127] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:12.759] Browser ERROR   uncaughtError: ReferenceError: Email is not defined
+[00:37:16.219] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:37:17.242] Server  LOG      ✓ Compiled in 294ms
+[00:37:18.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:18.551] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:37:18.551] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:37:18.551] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252196610}
+[00:37:32.795] Server  LOG      ✓ Compiled in 63ms
+[00:37:36.325] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:36.603] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:37:36.603] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:37:36.603] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252214667}
+[00:37:42.947] Server  LOG      ✓ Compiled in 79ms
+[00:38:09.238] Server  LOG      ✓ Compiled in 61ms
+[00:38:28.224] Server  LOG      ✓ Compiled in 58ms
+[00:38:58.951] Server  LOG      ✓ Compiled in 240ms
+[00:39:02.321] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:02.579] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:39:02.579] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:39:02.579] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252300644}
+[00:39:33.878] Server  LOG      ✓ Compiled in 82ms
+[00:39:36.541] Server  LOG      ✓ Compiled in 67ms
+[00:40:04.915] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:05.197] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:40:05.198] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:40:05.198] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252363264}
+[00:40:20.540] Server  LOG      ✓ Compiled in 60ms
+[00:40:26.064] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:26.304] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:40:26.304] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:40:26.304] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252384367}
+[00:40:50.610] Server  LOG      ✓ Compiled in 68ms
+[00:41:13.725] Server  LOG      ✓ Compiled in 61ms
+[00:41:27.174] Server  LOG      ✓ Compiled in 153ms
+[00:42:06.412] Server  LOG      ✓ Compiled in 58ms
+[00:42:27.584] Server  LOG      ✓ Compiled in 60ms
+[00:42:32.839] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:33.083] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:42:33.083] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:42:33.083] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252511151}
+[00:42:54.109] Server  LOG      ✓ Compiled in 55ms
+[00:43:40.853] Server  LOG      ✓ Compiled in 209ms
+[00:43:41.744] Browser ERROR   ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx:39:57
+Parsing ecmascript source code failed
+  37 |             </Link>
+  38 |           </div>
+> 39 |             <div className=""mx-auto max-w-6xl px-6 py-8"
+     |                                                         ^
+  40 |               <div className="flex flex-col items-center justify-between gap-2 md:flex-row">
+  41 |               <Smartphone size={20} /> <a className="flex flex-col items-center gap-2 md:items-start text-sm hover:cursor-pointer">+91 89839-39755</a>
+  42 |             </div>
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./OneDrive/Desktop/portfolio/Sitezen/components/Footer.jsx
+    ./OneDrive/Desktop/portfolio/Sitezen/app/layout.tsx
+[00:44:00.803] Server  LOG      ✓ Compiled in 186ms
+[00:44:14.527] Server  LOG      ✓ Compiled in 119ms
+[00:44:20.499] Server  LOG      ✓ Compiled in 66ms
+[00:44:25.210] Server  LOG      ✓ Compiled in 84ms
+[00:44:31.805] Server  LOG      ✓ Compiled in 56ms
+[00:44:34.904] Server  LOG      ✓ Compiled in 104ms
+[00:45:13.289] Server  LOG      ✓ Compiled in 62ms
+[00:45:17.927] Server  LOG      ✓ Compiled in 78ms
+[00:45:27.409] Server  LOG      ✓ Compiled in 179ms
+[00:45:31.712] Server  LOG      ✓ Compiled in 98ms
+[00:45:35.402] Server  LOG      ✓ Compiled in 112ms
+[00:45:45.743] Server  LOG      ✓ Compiled in 204ms
+[00:45:48.883] Server  LOG      ✓ Compiled in 99ms
+[00:45:57.141] Server  LOG      ✓ Compiled in 180ms
+[00:46:06.332] Server  LOG      ✓ Compiled in 114ms
+[00:46:12.301] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:12.755] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:46:12.755] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:46:12.755] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252730627}
+[00:46:13.744] Server  LOG      ✓ Compiled in 133ms
+[00:46:17.582] Server  LOG      ✓ Compiled in 147ms
+[00:46:25.264] Server  LOG      ✓ Compiled in 193ms
+[00:46:31.891] Server  LOG      ✓ Compiled in 86ms
+[00:46:37.869] Server  LOG      ✓ Compiled in 126ms
+[00:46:40.898] Server  LOG      ✓ Compiled in 115ms
+[00:46:55.563] Server  LOG      ✓ Compiled in 91ms
+[00:46:59.889] Server  LOG      ✓ Compiled in 104ms
+[00:47:12.837] Server  LOG      ✓ Compiled in 113ms
+[00:47:30.735] Server  LOG      ✓ Compiled in 104ms
+[00:47:50.859] Server  LOG      ✓ Compiled in 107ms
+[00:47:57.789] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:58.017] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:47:58.018] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:47:58.018] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252836077}
+[00:49:05.939] Server  LOG      ✓ Compiled in 253ms
+[00:49:06.731] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:07.036] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:49:07.037] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:49:07.037] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764252905096}
+[00:49:34.346] Server  LOG      ✓ Compiled in 70ms
+[00:50:05.720] Server  LOG      ✓ Compiled in 203ms
+[00:50:25.370] Server  LOG      ✓ Compiled in 61ms
+[00:50:39.244] Server  LOG      ✓ Compiled in 66ms
+[00:50:48.799] Server  LOG      ✓ Compiled in 70ms
+[00:50:54.445] Server  LOG      ✓ Compiled in 73ms
+[00:50:58.608] Server  LOG      ✓ Compiled in 80ms
+[00:51:02.019] Server  LOG      ✓ Compiled in 68ms
+[00:51:05.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:05.289] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:51:05.289] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:51:05.289] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253023354}
+[00:51:19.793] Server  LOG      ✓ Compiled in 69ms
+[00:51:23.619] Server  LOG      ✓ Compiled in 91ms
+[00:51:26.390] Server  LOG      ✓ Compiled in 91ms
+[00:51:27.508] Server  LOG      ✓ Compiled in 66ms
+[00:51:31.624] Server  LOG      ✓ Compiled in 63ms
+[00:52:07.739] Server  LOG      ✓ Compiled in 57ms
+[00:52:11.242] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:11.473] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:52:11.473] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:52:11.474] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253089532}
+[00:52:18.161] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:18.438] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:52:18.438] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:52:18.438] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253096502}
+[00:52:24.025] Server  LOG      ✓ Compiled in 63ms
+[00:52:32.593] Server  LOG      ✓ Compiled in 57ms
+[00:52:39.270] Server  LOG      ✓ Compiled in 71ms
+[00:52:50.701] Server  LOG      ✓ Compiled in 105ms
+[00:52:56.875] Server  LOG      ✓ Compiled in 152ms
+[00:53:03.856] Server  LOG      ✓ Compiled in 59ms
+[00:53:10.166] Server  LOG      ✓ Compiled in 58ms
+[00:53:13.800] Server  LOG      ✓ Compiled in 146ms
+[00:53:26.214] Server  LOG      ✓ Compiled in 66ms
+[00:53:32.178] Server  LOG      ✓ Compiled in 74ms
+[00:53:48.213] Server  ERROR    ⨯ TypeError: Constructor Map requires 'new'
+[00:53:48.263] Server  LOG      ✓ Compiled in 205ms
+[00:53:48.282] Browser ERROR   uncaughtError: TypeError: Constructor Map requires 'new'
+[00:53:48.731] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:49.763] Browser ERROR   uncaughtError: TypeError: Constructor Map requires 'new'
+[00:53:51.605] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:53:52.845] Server  LOG      ✓ Compiled in 470ms
+[00:53:52.871] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:53:53.346] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:53.596] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:53:53.596] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:53:53.596] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253191654}
+[00:54:26.502] Server  ERROR   C:\Users\sk800\OneDrive\Desktop\portfolio\Sitezen\.next\dev\server\chunks\ssr\[root-of-the-server]__220cbad6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:54:26.503] Server  ERROR    ⨯ ReferenceError: Pin is not defined
+[00:54:26.556] Server  LOG      ✓ Compiled in 193ms
+[00:54:27.051] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:27.746] Browser ERROR   uncaughtError: ReferenceError: Pin is not defined
+[00:54:36.084] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:54:36.090] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:54:37.314] Server  LOG      ✓ Compiled in 409ms
+[00:54:37.357] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:54:38.338] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:38.666] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:54:38.666] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:54:38.666] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253236733}
+[00:54:55.284] Server  LOG      ✓ Compiled in 57ms
+[00:55:15.017] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253273076}
+[00:55:32.866] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253290919}
+[00:56:03.509] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:03.713] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:56:03.714] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[00:56:03.714] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253321780}
+[00:57:37.455] Server  LOG      ✓ Compiled in 84ms
+[01:00:12.260] Server  LOG      ✓ Compiled in 83ms
+[01:01:51.513] Server  LOG      ✓ Compiled in 104ms
+[01:02:16.949] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:02:17.257] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:02:17.257] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[01:02:17.257] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253695325}
+[01:02:51.578] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253729639}
+[01:02:52.993] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253731052}
+[01:03:03.153] Server  LOG      ✓ Compiled in 97ms
+[01:03:45.478] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253783539}
+[01:03:52.771] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253790829}
+[01:03:54.676] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253792723}
+[01:03:56.374] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253794362}
+[01:04:16.377] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253814436}
+[01:05:04.728] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253862781}
+[01:05:06.262] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253864315}
+[01:05:07.489] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253865553}
+[01:05:09.628] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253867679}
+[01:05:11.095] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253869143}
+[01:05:12.894] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253870949}
+[01:05:15.955] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/projects color: rgb(120, 120, 120) color: inherit {"dp":"/projects","o":"http://localhost:3000/projects","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253874018}
+[01:05:28.251] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253886315}
+[01:05:47.565] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764253905620}
+[01:06:54.152] Server  LOG      ✓ Compiled in 127ms
+[01:07:08.172] Server  LOG      ✓ Compiled in 109ms
+[01:08:54.097] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764254092140}
+[01:08:59.931] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764254097975}
+[01:09:41.707] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764254139763}
+[01:09:50.929] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764254148984}
+[01:16:10.777] Server  LOG      ✓ Compiled in 72ms
+[01:16:13.958] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:16:14.446] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:16:14.446] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[01:16:14.446] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764254532509}
+[01:16:31.003] Server  LOG      ✓ Compiled in 74ms
+[01:16:37.571] Server  LOG      ✓ Compiled in 67ms
+[01:16:45.994] Server  LOG      ✓ Compiled in 70ms
+[01:17:03.109] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:17:03.368] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:17:03.368] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[01:17:03.368] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764254581431}
+[01:17:47.307] Server  LOG      ✓ Compiled in 76ms
+[01:17:51.360] Server  LOG      ✓ Compiled in 106ms
+[01:17:53.814] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:17:54.118] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:17:54.119] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[01:17:54.119] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764254632188}
+[01:19:43.211] Server  LOG      ✓ Compiled in 91ms
+[01:19:48.321] Server  LOG      ✓ Compiled in 66ms
+[01:19:53.891] Server  LOG      ✓ Compiled in 82ms
+[01:27:41.537] Server  LOG      ✓ Compiled in 62ms
+[01:27:47.838] Server  LOG      ✓ Compiled in 83ms
+[01:27:56.673] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:27:57.114] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:27:57.115] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[01:27:57.115] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764255235183}
+[01:29:40.534] Browser ERROR   unhandledRejection: ReferenceError: setIsSubmitted is not defined
+[01:31:31.705] Server  LOG      ✓ Compiled in 77ms
+[01:32:43.169] Server  LOG      ✓ Compiled in 70ms
+[01:32:51.379] Server  LOG      ✓ Compiled in 71ms
+[01:33:04.267] Server  LOG      ✓ Compiled in 81ms
+[01:33:10.569] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:33:10.828] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:33:10.828] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[01:33:10.828] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764255548891}
+[01:33:16.979] Server  LOG      ✓ Compiled in 188ms
+[01:33:19.130] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:33:19.384] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:33:19.384] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[01:33:19.384] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764255557452}
+[01:33:26.398] Server  LOG      ✓ Compiled in 89ms
+[01:33:29.180] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:33:29.427] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:33:29.427] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[01:33:29.427] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764255567494}

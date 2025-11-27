@@ -1,0 +1,37 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/ac046_next_dist_compiled_8666bd27._.js",
+      "static/chunks/ac046_next_dist_shared_lib_1cfa3e05._.js",
+      "static/chunks/ac046_next_dist_client_8557ec4a._.js",
+      "static/chunks/ac046_next_dist_d6a4c539._.js",
+      "static/chunks/ac046_next_app_97ae135d.js",
+      "static/chunks/[next]_entry_page-loader_ts_d2502af7._.js",
+      "static/chunks/ac046_react-dom_33572a79._.js",
+      "static/chunks/ac046_ef89e06e._.js",
+      "static/chunks/[root-of-the-server]__6a233460._.js",
+      "static/chunks/OneDrive_Desktop_portfolio_Sitezen_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_portfolio_Sitezen_pages__app_bf88d95d._.js"
+    ],
+    "/_error": [
+      "static/chunks/ac046_next_dist_compiled_8666bd27._.js",
+      "static/chunks/ac046_next_dist_shared_lib_be6c8b8d._.js",
+      "static/chunks/ac046_next_dist_client_8557ec4a._.js",
+      "static/chunks/ac046_next_dist_da6311ac._.js",
+      "static/chunks/ac046_next_error_91a97f0e.js",
+      "static/chunks/[next]_entry_page-loader_ts_d77d8b36._.js",
+      "static/chunks/ac046_react-dom_33572a79._.js",
+      "static/chunks/ac046_ef89e06e._.js",
+      "static/chunks/[root-of-the-server]__a838a00c._.js",
+      "static/chunks/OneDrive_Desktop_portfolio_Sitezen_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_portfolio_Sitezen_pages__error_7b5c6e1b._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": []
+}

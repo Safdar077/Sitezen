@@ -1,0 +1,51 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/ac046_next_dist_compiled_8666bd27._.js",
+      "static/chunks/ac046_next_dist_shared_lib_1cfa3e05._.js",
+      "static/chunks/ac046_next_dist_client_8557ec4a._.js",
+      "static/chunks/ac046_next_dist_d6a4c539._.js",
+      "static/chunks/ac046_next_app_97ae135d.js",
+      "static/chunks/[next]_entry_page-loader_ts_d2502af7._.js",
+      "static/chunks/ac046_react-dom_33572a79._.js",
+      "static/chunks/ac046_ef89e06e._.js",
+      "static/chunks/[root-of-the-server]__6a233460._.js",
+      "static/chunks/OneDrive_Desktop_portfolio_Sitezen_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_portfolio_Sitezen_pages__app_bf88d95d._.js"
+    ],
+    "/_error": [
+      "static/chunks/ac046_next_dist_compiled_8666bd27._.js",
+      "static/chunks/ac046_next_dist_shared_lib_be6c8b8d._.js",
+      "static/chunks/ac046_next_dist_client_8557ec4a._.js",
+      "static/chunks/ac046_next_dist_da6311ac._.js",
+      "static/chunks/ac046_next_error_91a97f0e.js",
+      "static/chunks/[next]_entry_page-loader_ts_d77d8b36._.js",
+      "static/chunks/ac046_react-dom_33572a79._.js",
+      "static/chunks/ac046_ef89e06e._.js",
+      "static/chunks/[root-of-the-server]__a838a00c._.js",
+      "static/chunks/OneDrive_Desktop_portfolio_Sitezen_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_portfolio_Sitezen_pages__error_7b5c6e1b._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/ac046_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_3d8d1c13._.js",
+    "static/chunks/ac046_next_dist_compiled_react-dom_133b7c7e._.js",
+    "static/chunks/ac046_next_dist_compiled_react-server-dom-turbopack_2ee985a0._.js",
+    "static/chunks/ac046_next_dist_compiled_next-devtools_index_5df32667.js",
+    "static/chunks/ac046_next_dist_compiled_f80e0875._.js",
+    "static/chunks/ac046_next_dist_client_14d0778d._.js",
+    "static/chunks/ac046_next_dist_8345281b._.js",
+    "static/chunks/ac046_@swc_helpers_cjs_57c65a61._.js",
+    "static/chunks/OneDrive_Desktop_portfolio_Sitezen_a0ff3932._.js",
+    "static/chunks/turbopack-OneDrive_Desktop_portfolio_Sitezen_e24c3532._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
