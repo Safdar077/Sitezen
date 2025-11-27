@@ -1,7 +1,7 @@
 # Node modules
 node_modules/
 
-# Build output
+# Next.js build output
 .next/
 out/
 
@@ -12,8 +12,8 @@ out/
 .DS_Store
 Thumbs.db
 
-# Videos or large files
-public/*.mp4
-
 # Environment files
 .env
+
+# Large media
+public/*.mp4
