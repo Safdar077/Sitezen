@@ -10,14 +10,6 @@ import Footer from "@/components/Footer"
 const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
-export const metadata: Metadata = {
-  // <CHANGE> Updated metadata for SiteZen Solutions
-  title: "SiteZen Solutions | Design that speaks",
-  description: "Ideas crafted into reality. Built for impact.",
-  generator: "v0.app",
-  // ... existing code ...
-}
-
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -25,6 +17,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta title="SiteZen Solutions"
+        content="Design that speaks, Ideas crafted into reality. Built for impact. hear ideas turn into reality." />
+      </head>
       <body className={`font-sans antialiased`}>
         {/* <CHANGE> Added Navbar and Footer wrapping all pages */}
         <Navbar />
