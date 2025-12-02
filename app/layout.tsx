@@ -73,6 +73,24 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "SiteZen Solutions",
+              url: "https://your-domain.com",
+              description:
+                "We craft stunning digital experiences that captivate your audience and drive results. Ideas crafted into reality, built for impact.",
+              sameAs: [],
+              creator: {
+                "@type": "Organization",
+                name: "SiteZen Solutions",
+              }
+            })
+          }}
+        />
         <meta title="SiteZen Solutions"
         content="Design that speaks, Ideas crafted into reality. Built for impact. hear ideas turn into reality." />
       </head>
