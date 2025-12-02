@@ -80,13 +80,17 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               name: "SiteZen Solutions",
-              url: "https://your-domain.com",
+              url: "https://sitezen-solution.vercel.app/",
               description:
                 "We craft stunning digital experiences that captivate your audience and drive results. Ideas crafted into reality, built for impact.",
-              sameAs: [],
-              creator: {
+              publisher: {
                 "@type": "Organization",
                 name: "SiteZen Solutions",
+              },
+              potentialAction: {
+                "@type": "SearchAction",
+                target: "https://sitezen-solution.vercel.app/?q={search_term}",
+                "query-input": "required name=search_term"
               }
             })
           }}
