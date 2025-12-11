@@ -41,7 +41,7 @@ export default function Footer() {
               <Smartphone size={20} /> <a className="flex flex-col items-center pl-2 md:items-start text-sm hover:cursor-pointer">+91 89839-39755</a>
             </div>
             <div className="flex flex-col items-center mt-2 md:flex-row">
-              <Mail size={20} /> <a className="flex flex-col items-center pl-2 md:items-start text-sm hover:cursor-pointer">info@sitezen.com</a>
+              <Mail size={20} /> <a className="flex flex-col items-center pl-2 md:items-start text-sm hover:cursor-pointer">info.sitezen@gmail.com</a>
             </div>
             <div className="flex flex-col items-center md:flex-row">
               <MapPin size={20} /> <a className="flex flex-col items-center pl-1 md:items-start mt-2 text-sm hover:cursor-pointer">Pune, Maharashtra India</a>
