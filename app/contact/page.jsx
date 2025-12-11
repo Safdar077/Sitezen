@@ -201,7 +201,7 @@ export default function ContactPage() {
             {
               icon: "✉",
               label: "Email",
-              value: "info@sitezen.com",
+              value: "info.sitezen@gmail.com",
             },
             {
               icon: "📍",
