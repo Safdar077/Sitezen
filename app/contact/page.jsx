@@ -8,6 +8,7 @@ export default function ContactPage() {
     name: "",
     email: "",
     subject: "",
+    mobile: "",
     message: "",
   })
   const [isSubmition, setIsSubmitted] = useState(false)
@@ -93,14 +94,14 @@ export default function ContactPage() {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.3, duration: 0.5 }}
               >
-                <label htmlFor="name" className="mb-2 block text-sm font-medium text-foreground">
+                <label htmlFor="mobile" className="mb-2 block text-sm font-medium text-foreground">
                   Mobile-no
                 </label>
                 <input
                   type="text"
-                  id="name"
-                  name="name"
-                  value={formData.name}
+                  id="mobile"
+                  name="mobile"
+                  value={formData.mobile}
                   onChange={handleChange}
                   required
                   className="w-full rounded-lg border border-border px-4 py-3 text-foreground placeholder:text-muted-foreground focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20"
