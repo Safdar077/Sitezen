@@ -20,7 +20,7 @@ export default function ContactPage() {
   const  handleSubmit = async (e) => {
     e.preventDefault()
 
-    const res = await fetch("https://formspree.io/f/mangovzb", {
+    const res = await fetch("https://formspree.io/f/xaqdarvz", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
