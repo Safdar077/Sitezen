@@ -32,7 +32,7 @@ export default function ContactPage() {
   if (res.ok) {
     setIsSubmitted(true);
     setTimeout(() => setIsSubmitted(false), 3000);
-    setFormData({ name: "", email: "", phone: "", message: "" });
+    setFormData({ name: "", email: "", mobile: "", message: "", subject: ""});
   }
   }
 
