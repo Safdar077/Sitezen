@@ -92,6 +92,15 @@ export default function ProjectsPage() {
                   >
                     {project.description}
                   </motion.p>
+                  <motion.a
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
+                    viewport={{ once: true }}
+                    transition={{ delay: 0.3 }}
+                    className="mb-6 text-muted-foreground"
+                  >
+                    {project.link}
+                  </motion.a>
                   <motion.div
                     initial={{ opacity: 0 }}
                     whileInView={{ opacity: 1 }}
