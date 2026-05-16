@@ -16,6 +16,7 @@ const projects = [
       "A stunning portfolio website for TechNova, showcasing their innovative digital products and services with immersive animations and modern design aesthetics.",
     video: "/tech-nova.mp4",
     tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
+    link : "https://technova-digital.vercel.app/"
   },
 ]
 
