@@ -5,6 +5,9 @@ import Link from "next/link"
 
 export default function HomePage() {
   return (
+    <head>
+      <script src="https://cdn-in.pagesense.io/js/zenlogixsolutions171/79114b22c1ea44e0adbc7256ceeab49d.js"></script>
+    </head>
     <div className="relative">
       {/* Hero Section */}
       <section className="relative flex min-h-[90vh] flex-col items-center justify-center overflow-hidden px-6">
